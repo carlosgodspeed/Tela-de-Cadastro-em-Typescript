@@ -4,7 +4,7 @@ import { Form } from '../../components/Form';
 import { Header } from '../../components/Header';
 import { Container } from './styles';
 
-export function SignUp() {
+export function SignUp() { 
   return (
     <Container>
       <TouchableWithoutFeedback onPress={Keyboard.dismiss}>
