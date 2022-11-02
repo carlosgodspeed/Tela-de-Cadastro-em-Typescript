@@ -16,12 +16,22 @@ export function Form() {
     <Container>
       <Input
         icon="user"
-        placeholder="Nome"
+        placeholder="Nome completo"
+      />
+      <Input
+        icon="calendar"
+        placeholder="data de nascimento"
       />
       <Input
         icon="mail"
         placeholder="E-mail"
         keyboardType="email-address"
+        autoCapitalize='none'
+      />
+      <Input
+        icon="phone"
+        placeholder="Phone"
+        keyboardType="phone-pad"
         autoCapitalize='none'
       />
       <Input

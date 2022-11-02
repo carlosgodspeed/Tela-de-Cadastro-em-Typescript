@@ -5,11 +5,11 @@ export function Header() {
   return (
     <Container>
       <Title>
-        Crie sua conta
+      ⠀ Crie sua conta
       </Title>
 
       <Subtitle>
-        Faça seu cadastro de forma rápida e fácil {'\n'}na Safety Life Security
+          {'\n'}⠀⠀⠀ Safety Life Security
       </Subtitle>
     </Container>
   )

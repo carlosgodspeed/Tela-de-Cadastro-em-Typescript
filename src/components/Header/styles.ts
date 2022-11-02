@@ -8,13 +8,11 @@ export const Container = styled.View`
 export const Title = styled.Text`
   font-size: 40px;
   font-weight: bold;
-  color: #00BFFF;
+  color: #4675f7;
   margin-top: 60px;
 `;
-
 export const Subtitle = styled.Text`
-  font-size: 17px;
+  font-size: 24px;
   color: #000000;
   line-height: 25px;  
 `;
-
